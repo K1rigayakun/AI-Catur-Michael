@@ -114,7 +114,3 @@ Berkat optimasi **Bitboards** dan **Lazy SMP**, *engine* ini mampu mencapai metr
   * **Russell, S., & Norvig, P. (2020).** *Artificial Intelligence: A Modern Approach*.
 
 -----
-
-\<div align="center"\>
-\<sub\>Dibuat dengan dedikasi penuh untuk tugas besar Kecerdasan Buatan 2026\</sub\>
-\</div\>
